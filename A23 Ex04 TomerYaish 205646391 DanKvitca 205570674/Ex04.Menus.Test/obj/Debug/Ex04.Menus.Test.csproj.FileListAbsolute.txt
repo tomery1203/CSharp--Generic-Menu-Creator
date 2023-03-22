@@ -1,0 +1,11 @@
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interface.dll
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interface.pdb
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csprojAssemblyReference.cache
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb

@@ -1,0 +1,6 @@
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\tomer\Desktop\A23 Ex04 TomerYaish 205646391 DanKvitca 205570674\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
